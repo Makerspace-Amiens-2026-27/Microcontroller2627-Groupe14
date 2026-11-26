@@ -1,6 +1,6 @@
 ---
 layout: default
-title: mattheogaillard
+title: journal
 parent: Journal de bord
 nav_order: 8
 has_children: true
